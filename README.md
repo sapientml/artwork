@@ -34,3 +34,9 @@ In this repo, we provide SapientML artwork in 2 standard formats (PNG/SVG) and i
 		</tr>
 	</tbody>	
 </table>
+
+# Use of trademark or logo 
+Please take a look at the Linux Foundation Trademark Usage page to learn about the usage policy and guidelines: https://www.linuxfoundation.org/trademark-usage. 
+
+# Questions? 
+Please email info@lfaidata.foundation.
